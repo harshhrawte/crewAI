@@ -1,1 +1,1 @@
-In this Repo,we get an idea about the working of CrewAI Agentic framework
+We get an idea about the working of CrewAI Agentic framework
